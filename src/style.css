@@ -47,3 +47,8 @@ body{
     transform: rotate(180deg);
     position: absolute;
 }
+
+.btn {
+    position: relative;
+    padding: 30px;
+}
